@@ -136,3 +136,5 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
     'http://srv615591.hstgr.cloud'
 ]
+
+ALLOWED_HOSTS = ['*']

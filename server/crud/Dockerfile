@@ -25,5 +25,8 @@ COPY . /app/
 # Open port 8000 for Django 
 EXPOSE 8000 
 
+# Define environment variable
+ENV DJANGO_ENV=production
+
 # Run the Django server by default 
 CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
