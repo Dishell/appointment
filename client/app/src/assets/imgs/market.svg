@@ -1,0 +1,14 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Shopping Cart -->
+  <rect x="40" y="100" width="120" height="50" rx="10" ry="10" fill="#457464"/>
+  <path d="M50,140 Q40,150 50,160 Q60,170 80,160 L120,160 Q140,170 150,160 Q160,150 150,140" fill="none" stroke="#457464" stroke-width="4"/>
+
+  <!-- Wheels of the Cart -->
+  <circle cx="60" cy="155" r="8" fill="#000000"/>
+  <circle cx="140" cy="155" r="8" fill="#000000"/>
+
+  <!-- Graph (rising bars) -->
+  <rect x="110" y="60" width="20" height="40" fill="#000000"/>
+  <rect x="130" y="40" width="20" height="60" fill="#333333"/>
+  <rect x="150" y="30" width="20" height="70" fill="#457464"/>
+</svg>

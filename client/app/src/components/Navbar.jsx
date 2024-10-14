@@ -52,10 +52,16 @@ const Navbar = () => {
                     </li>
                     <li className="item">
                         <a className="link" href="#about"> About </a>
-                    </li>                    
+                    </li>
+                    <li className="item">
+                        <a className="link" href="#service"> Service </a>
+                    </li>
+                    <li className="item">
+                        <a className="link" href="#benefit"> Benefit </a>
+                    </li>
                     <li className="item">
                         <a className="link" href="#testimonial"> Testimonial </a>
-                    </li>                    
+                    </li>
                     <li className="item">
                         <a className="link" href="#contact"> Contact </a>
                     </li>

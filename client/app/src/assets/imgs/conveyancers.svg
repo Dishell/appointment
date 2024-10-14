@@ -1,0 +1,17 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Document (symbolizing legal work) -->
+  <rect x="50" y="40" width="60" height="80" rx="5" ry="5" fill="#457464"/>
+  <line x1="55" y1="60" x2="105" y2="60" stroke="#ffffff" stroke-width="3"/>
+  <line x1="55" y1="75" x2="105" y2="75" stroke="#ffffff" stroke-width="3"/>
+  <line x1="55" y1="90" x2="85" y2="90" stroke="#ffffff" stroke-width="3"/>
+
+  <!-- Handshake -->
+  <path d="M120,120 Q130,100 150,120 T180,120" fill="none" stroke="#457464" stroke-width="8"/>
+  <circle cx="120" cy="120" r="12" fill="#457464"/>
+  <circle cx="180" cy="120" r="12" fill="#457464"/>
+  <path d="M140,120 L160,120" stroke="#457464" stroke-width="6"/>
+
+  <!-- Speech bubble (symbolizing communication) -->
+  <rect x="50" y="130" width="80" height="40" rx="10" ry="10" fill="#457464"/>
+  <polygon points="70,170 70,190 55,175" fill="#457464"/>
+</svg>

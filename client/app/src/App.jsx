@@ -6,6 +6,8 @@ import Testimonial from './components/Testimonial'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import ScrollButton from './components/ScrollButton'
+import Service from './components/Service'
+import Benefit from './components/Benefit'
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
       <Navbar />
       <Header />
       <About />
+      <Service />
+      <Benefit />
       <Testimonial />
       <Contact />
       <Footer />

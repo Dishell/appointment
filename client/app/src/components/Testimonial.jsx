@@ -5,7 +5,7 @@ const Testimonial = () => {
         <section className="section" id="testimonial">
             <div className="container text-center">
                 <p className="section-subtitle">What Client Think About Me ?</p>
-                <h6 className="section-title mb-6">Testimonial</h6>
+                <h6 className="section-title mb-6">Testimonials</h6>
                 <div className="row">
                     <div className="col-md-6">
                         <div className="testimonial-card">

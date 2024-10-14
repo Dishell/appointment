@@ -1,0 +1,12 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Gear -->
+  <circle cx="100" cy="100" r="45" fill="#000000"/>
+  <path d="M100,55 L110,20 L130,20 L120,55 L140,75 L110,75 L100,95 L90,75 L60,75 L70,55 L50,20 L70,20 L80,55 Z" fill="#457464"/>
+
+  <!-- Wrench (crossed) -->
+  <rect x="78" y="75" width="44" height="10" fill="#ffffff" transform="rotate(45 100 80)"/>
+  <rect x="90" y="85" width="10" height="44" fill="#ffffff" transform="rotate(45 100 80)"/>
+
+  <!-- Helping Hand -->
+  <path d="M60,140 C55,130 75,120 85,120 C95,120 110,130 105,140 C100,150 75,150 75,140 C75,135 65,135 60,140 Z" fill="#000000"/>
+</svg>
