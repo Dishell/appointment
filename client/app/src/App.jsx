@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './components/Navbar'
 import Header from './components/Header'
 import About from './components/About'
-import Testimonial from './components/Testimonial'
+// import Testimonial from './components/Testimonial'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import ScrollButton from './components/ScrollButton'
@@ -17,7 +17,7 @@ function App() {
       <About />
       <Service />
       <Benefit />
-      <Testimonial />
+      {/* <Testimonial /> */}
       <Contact />
       <Footer />
       <ScrollButton />

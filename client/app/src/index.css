@@ -12032,13 +12032,13 @@ pre .code {
   border-radius: 50%;
   line-height: 40px;
   text-align: center;
-  border: 2px solid #6c757d;
-  color: #6c757d;
+  border: 2px solid #457464;
+  color: #457464;
 }
 
 .footer .social-links a:hover {
-  background: #695aa6;
-  border-color: #695aa6;
+  background: #457464;
+  border-color: #457464;
   color: #fff;
   text-decoration: none;
 }
@@ -12259,7 +12259,7 @@ pre .code {
 .scroll {
   position: fixed;
   width: auto;
-  right: 10%;
+  right: 5%;
   bottom: 40px;
   height: 20px;
   /* font-size: 3rem; */
