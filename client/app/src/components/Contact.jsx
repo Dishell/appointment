@@ -28,7 +28,7 @@ const Contact = () => {
       }; // javascript object
   
       try {
-        const response = await fetch("http://srv615591.hstgr.cloud:8000/api/clients/create/", {
+        const response = await fetch("http://windsorpl.com.au:8000/api/clients/create/", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
