@@ -22,14 +22,3 @@ services:
     command: npm start
     depends_on:
       - backend
-
-  nginx:
-    build: 
-      context: .
-      dockerfile: Dockerfile
-    container_name: nginx-webserver
-    restart: always
-    ports:
-      - "80:80"
-    depends_on:
-      - backend
